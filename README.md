@@ -1,1 +1,8 @@
-# Desafio-UMl-Dio
+### Desafio Dio.
+- Esse repositório foi feito para contemplar a resolução de um desafio que propõe a criação de uma UML
+--------
+
+A UML é simples, um iPhone com algumas funcionalidades.
+- Foi utilizado o mermaid.
+
+[![](https://mermaid.ink/img/pako:eNq9U8FuwjAM_ZUop05DfECFkNB22WEIjWmnXkxjWmtpXLkJ2mD8-1JoNWjFkZ2cvLz4xS_2QedsUKc6t9A0zwSFQJW5zCl1QhStSnaoDi2i1GxGzqNsIcf5_Aw9Ks85SPKQqh2T6cEaQjNGG7SYEzuQ19BQDkl1CqlaeyFXDNiWipjChQqFb1DAozM40iFHOYE8sQgSf_B-SMAv2pCsoCAHSRB7K72h83OXvIPFBpKRfABLe-gzXRwfL118w1rYBM9d3bY39E7uXYkvahC0Jb_H61uOzvCf-p0svtJfwg4LMCwvbe849H_y__YNXRtPpz_z8WcMCWPDhoxRSa2KnuhoYwVk4jydSsy0L7HCTKdxaUA-M525Y-RBVF9_u1ynXgJOtHAoSp1uwTZxF2oTTe-GsaegofbF3bS24fgL_w4-vA?type=png)](https://mermaid.live/edit#pako:eNq9U8FuwjAM_ZUop05DfECFkNB22WEIjWmnXkxjWmtpXLkJ2mD8-1JoNWjFkZ2cvLz4xS_2QedsUKc6t9A0zwSFQJW5zCl1QhStSnaoDi2i1GxGzqNsIcf5_Aw9Ks85SPKQqh2T6cEaQjNGG7SYEzuQ19BQDkl1CqlaeyFXDNiWipjChQqFb1DAozM40iFHOYE8sQgSf_B-SMAv2pCsoCAHSRB7K72h83OXvIPFBpKRfABLe-gzXRwfL118w1rYBM9d3bY39E7uXYkvahC0Jb_H61uOzvCf-p0svtJfwg4LMCwvbe849H_y__YNXRtPpz_z8WcMCWPDhoxRSa2KnuhoYwVk4jydSsy0L7HCTKdxaUA-M525Y-RBVF9_u1ynXgJOtHAoSp1uwTZxF2oTTe-GsaegofbF3bS24fgL_w4-vA)
